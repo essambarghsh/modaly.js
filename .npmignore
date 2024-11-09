@@ -1,0 +1,6 @@
+tests/
+docs/
+.github/
+.gitignore
+.prettierrc
+*.log

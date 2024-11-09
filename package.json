@@ -1,0 +1,25 @@
+{
+    "name": "modaly.js",
+    "version": "1.0.0",
+    "description": "A lightweight and flexible HTML-driven modal library",
+    "main": "modaly.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "modal",
+        "modal.js",
+        "HTML-driven modal",
+        "modal ui"
+    ],
+    "author": "Essam Barghsh <essambarghsh@ashwab.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/essambarghsh/modaly.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/essambarghsh/modaly.js/issues"
+    },
+    "homepage": "https://github.com/essambarghsh/modaly.js#readme"
+}
